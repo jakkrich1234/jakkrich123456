@@ -1,0 +1,9 @@
+province = ["กรุงเทพมหานคร","กาฬสินธุ์","กาญจนบุรี","จันทบุรี","ฉะเชิงเทรา","ชลบุรี","พะเยา","ชุมพร","ชัยนาท","ขอนเเเก่น","ชัยภูมิ","ยโสธร","นครพนม","นครราชสีมา","เชียงใหม่"]
+
+province[0] = "Bangkok"
+province[14] = "Korat"
+province[5] = "paet Riw"
+province[6] = "Chon porn"
+province[8] = "Chum porn"
+
+print(province)
